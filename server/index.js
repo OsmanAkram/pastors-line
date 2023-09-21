@@ -4,8 +4,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const axios = require('axios');
-const { data } = require('./data');
-const { data2 } = require('./data2');
+
 require('dotenv').config();
 
 const hostname =
