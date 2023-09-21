@@ -1,0 +1,3 @@
+export const CONTACTS= "CONTACTS"
+export const SEARCH_CONTACTS= "SEARCH_CONTACTS"
+export const ISCHECKED= "ISCHECKED"
